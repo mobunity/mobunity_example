@@ -69,7 +69,7 @@ In the other hand, if you are **completely sure** that you will use different **
   * `onAdLoaded(AdBanner ad);` ad is ready to use.
   * `onNoConfigAvailable();` you didn't configure it in your dashboard.
 * **How to initialize it?** `MobUnity.initAdBanner(ViewGroup layout, BannerListener bannerListener)`. You will pass the `layout` where you want to attach the banner. It can be `LinearLayout`, `RelativeLayout` or any other.
-* **Style** Banner.
+* **Style** Banner
 
 ###Extra
 * **Listener** `ExtraListener`
