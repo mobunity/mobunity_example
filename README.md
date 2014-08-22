@@ -1,4 +1,4 @@
-#mobunity
+#MobUnity
 
 Welcome to our solution to implement multiple ad networks, updating them on real time without any need to update your application again, and aim different ad network to different countries and boost your revenue. Visit http://mobunity.com to get more information.
 
